@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3262973666DA728CB3B29BE7A57E1D383744086E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3262973666DA728CB3B29BE7A57E1D383744086E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2F21CAF0-F187-403C-9A58-601319F6CEE5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3262973666DA728CB3B29BE7A57E1D383744086E" : "swagShop\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "swagShop",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "swagShop.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kilik42\/swagshop2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3262973666DA728CB3B29BE7A57E1D383744086E"
+    }
+  ]
+}

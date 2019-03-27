@@ -202,10 +202,23 @@ SWIFT_CLASS("_TtC8swagShop11AppDelegate")
 @class NSBundle;
 @class NSCoder;
 
-SWIFT_CLASS("_TtC8swagShop14ViewController")
-@interface ViewController : UIViewController
+SWIFT_CLASS("_TtC8swagShop12CategoriesVC")
+@interface CategoriesVC : UIViewController
 - (void)viewDidLoad;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class UIImageView;
+@class UILabel;
+
+SWIFT_CLASS("_TtC8swagShop12CategoryCell")
+@interface CategoryCell : UITableViewCell
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified categoryImage;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified categoryTitle;
+- (void)awakeFromNib;
+- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
+- (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 @end
 
