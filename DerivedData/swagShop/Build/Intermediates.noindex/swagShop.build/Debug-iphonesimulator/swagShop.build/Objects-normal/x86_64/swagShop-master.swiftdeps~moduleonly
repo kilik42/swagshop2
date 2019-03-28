@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
 options: "9cfb6850abe37e7576785c68fc596be9"
-build_time: [1553710964, 72977000]
+build_time: [1553726199, 199367000]
 inputs:
-  "/Users/marvinevins/Library/Autosave Information/swagShop/swagShop/views/CategoriesVC.swift": [9223372036, 854775807]
+  "/Users/marvinevins/Library/Autosave Information/swagShop/swagShop/views/CategoriesVC.swift": [1553726199, 127992879]
   "/Users/marvinevins/Library/Autosave Information/swagShop/swagShop/controllers/CategoryCell.swift": [1553710647, 202700561]
   "/Users/marvinevins/Library/Autosave Information/swagShop/swagShop/AppDelegate.swift": [1553707170, 286400797]

@@ -5,7 +5,34 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>AE7CD5EC-C092-4DA4-98A2-5B363B994A09</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>AE7CD5EC-C092-4DA4-98A2-5B363B994A09.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>swagShop-ahnfauwlpimdtcecsnmuzyybbnln</string>
+			<key>timeStartedRecording</key>
+			<real>575418999.188748</real>
+			<key>timeStoppedRecording</key>
+			<real>575419001.49899197</real>
+			<key>title</key>
+			<string>Build target swagShop</string>
+			<key>uniqueIdentifier</key>
+			<string>AE7CD5EC-C092-4DA4-98A2-5B363B994A09</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

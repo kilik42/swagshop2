@@ -5,6 +5,39 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>E740FBD0-7910-40AA-BB85-C53493748C87</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E740FBD0-7910-40AA-BB85-C53493748C87.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>swagShop project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>swagShop</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build swagShop</string>
+			<key>timeStartedRecording</key>
+			<real>575418999.116732</real>
+			<key>timeStoppedRecording</key>
+			<real>575419001.52443504</real>
+			<key>title</key>
+			<string>Build swagShop</string>
+			<key>uniqueIdentifier</key>
+			<string>E740FBD0-7910-40AA-BB85-C53493748C87</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
